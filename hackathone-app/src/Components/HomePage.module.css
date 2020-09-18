@@ -1,0 +1,41 @@
+.loginbox{
+    height: 300px;
+    margin: 7% 35%;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-weight: 600;
+    box-shadow: 0px 0px 9px 9px rgb(48, 44, 80);
+    padding-top: 80px;
+   
+  }
+
+
+  .dashboard{
+      display: none;
+  }
+
+  .loginbox > *{
+      width: 400px;
+      height: 30px;
+      font-size: 20px;
+      color: tomato;
+      border-radius: 10px;
+      outline: 0px;
+  }
+
+  .loginbox > button {
+      width: 150px;
+      height: 50px;
+      background-color: whitesmoke;
+      margin-top: 10px;
+      outline: 0px;
+  }
+
+  .logo{
+      margin: 40px;
+      font-weight: bolder;
+      font-size: 40px;
+      text-decoration-color: white;
+      color: white;
+  }
